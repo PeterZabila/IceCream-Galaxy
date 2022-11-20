@@ -6,7 +6,7 @@
   "homepage": "https://peterzabila.github.io/IceCream-Galaxy",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /icecream-galaxy/"
+    "build": "parcel build src/*.html --public-url /IceCream-Galax/"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
